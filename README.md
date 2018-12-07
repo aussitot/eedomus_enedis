@@ -72,7 +72,7 @@ et enfin une règle :
 
 ## Version history
 
-#### v0.1 (2018-02-25)
+#### v1.0 (2018-02-25)
 - Première version !
 
 ## COPYRIGHT

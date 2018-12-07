@@ -11,7 +11,7 @@ NB : Script à installer sur un serveur web/php autre que l'eedomus elle-même
 # INSTALLATION
 Bonjour,
 
-Voici un  script pour intégrer dans l'interface eedomus les consommations mesurées par un serveur linky depuis le site enedis.
+Voici un  script pour intégrer dans l'interface eedomus les consommations mesurées par un compteur linky depuis le site enedis.
 La consommation n'est remontée QU'UNE fois par jour.
 
 **Prérequis**

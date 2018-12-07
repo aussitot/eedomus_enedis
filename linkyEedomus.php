@@ -14,8 +14,8 @@ $api_user = 'wwwwwwwwww'; //api_user eedomus
 $api_secret = 'zzzzzzzzzzzzzzzz'; //api_secret eedomus
 
 //------- Etats de sauvegarde
-$capteurCumul = '1231788'; //code api eedomus de l etat cumul
-$capteurConso = '1231789'; //code api eedomus de l etat conso
+$capteurCumul = '0123456'; //code api eedomus de l etat cumul
+$capteurConso = '7890123'; //code api eedomus de l etat conso
 
 $log = new Log("linky.log");
 

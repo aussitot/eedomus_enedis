@@ -100,7 +100,7 @@ if ($mode ==1) //on force la màj
       $cumul = $lastvalueindex + substr($data[$yesterday], 0, -3);
 
       $eestatus = "<root>";
-      $eestatus .= "<mode>0-calcul-NOTransmit</conso>";
+      $eestatus .= "<mode>0-calcul-NOTransmit</mode>";
       $eestatus .= "<conso>".substr($data[$yesterday], 0, -3)."</conso>";
       $eestatus .= "<cumul>".$cumul."</cumul>";
       $eestatus .= "</root>";
